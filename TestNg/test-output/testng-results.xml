@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2020-07-23T03:54:14Z" finished-at="2020-07-23T03:54:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2020-07-23T03:54:14Z" finished-at="2020-07-23T03:54:14Z">
+      <class name="pickMe.Food">
+        <test-method status="PASS" signature="orderFood()[pri:0, instance:pickMe.Food@174d20a]" name="orderFood" duration-ms="17" started-at="2020-07-23T09:24:14Z" finished-at="2020-07-23T09:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderFood -->
+        <test-method status="PASS" signature="selectFood()[pri:0, instance:pickMe.Food@174d20a]" name="selectFood" duration-ms="2" started-at="2020-07-23T09:24:14Z" finished-at="2020-07-23T09:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFood -->
+      </class> <!-- pickMe.Food -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

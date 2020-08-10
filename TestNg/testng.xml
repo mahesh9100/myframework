@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNg">
+  <test name="PICKME">
+    <classes>
+ 
+      <class name="pickMe.Food"/>
+      <class name="pickMe.Merchant"/>
+      <class name="pickMe.Ride"/>
+      <class name="uber.UberRide"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="UBER">
+  <classes>
+  	<class name="uber.UberRide"/>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
